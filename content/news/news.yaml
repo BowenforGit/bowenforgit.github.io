@@ -1,3 +1,7 @@
+- title: "Gave a talk at Velox Tech Talk at Meta"
+  date: "2025-09-26"
+  read_more: true
+  content: "**Title**: Prototyping a GPU-Accelerated Reader for the Nimble File Format with Velox Wave\n\n **Abstract**: Table scan is a costly operation in databases and data processing, often consuming significant CPU time. GPUs, with their parallelism and high-bandwidth memory, offer a promising way to accelerate table scans. In this talk, I will present our prototype of a GPU-accelerated reader for the Nimble file format using Velox Wave, a GPU-accelerated data processing library in Velox. Our prototype supports trivial, nullable, and chunked decoding as well as filter push-down."
 - title: "A paper on multi-GPU query processing has been accepted to VLDB 2026"
   date: "2025-09-15"
   read_more: true
