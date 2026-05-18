@@ -1,3 +1,8 @@
+- title: "Submitted our latest work on benchmarking hybrid relational and vector processing on CPU-GPU platforms"
+  date: "2026-05-18"
+  read_more: true
+  content: >
+    In this paper, we proposed a new benchmark Vec-H that extends TPC-H with vector data and vector search. We also presented a system, MaxVec, which is a query engine that can handle mixed vector and relational workloads over CPU-GPU heterogenous platforms.
 - title: "Submitted our latest work on Eiger, a high-performance library for GPU-based databases"
   date: "2026-02-05"
   read_more: true
