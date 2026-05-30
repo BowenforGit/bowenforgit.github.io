@@ -22,6 +22,7 @@ I am also very fortunate to work with talented students on various projects.
 
 **Master's Thesis**
 
+- [**Lorenzo Benedetti**](https://www.linkedin.com/in/lorenzo-benedetti-46a222206/): Implementing a GPU-accelerated file reader.
 - [**Diana Micloiu**](https://ch.linkedin.com/in/diana-micloiu-16b049248): Implementing and accelerating semantic operations in DBMS.
 - [**Sepehr Pourghannad**](https://ch.linkedin.com/in/sepehr-pourghannad) (now as a performance engineer at IMC Trading): Integrated Eiger, a high-performance GPU-based query engine, into [Maximus](https://gitlab.inf.ethz.ch/PUB-SYSTEMS/eth-dataprocessing/Maximus), a modular database working with heterogeneous hardware.  
 - [**Dominic Steiner**](https://nl.linkedin.com/in/dominic-steiner-ch) (now as a software engineer at Optiver): Profiled the NCCL library for the distributed database workloads and proposed optimizations that greatly improve the distributed operator's performance in Eiger.
