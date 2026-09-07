@@ -1,3 +1,13 @@
+- title: Presented our paper about query processing on distributed GPU clusters at VLDB 2026, Boston
+  date: "2026-09-02"
+  read_more: false
+  content: >
+    "Terabyte-Scale Analytics in the Blink of an Eye".
+- title: "Gave a talk at Microsoft Gray Systems Lab"
+  date: "2026-08-03"
+  read_more: true
+  content: >
+    Talked about my recent work "Eiger: An Efficient Library for GPU-based Data Analytics".
 - title: "Started a 13-week internship with NVIDIA Architecture Research Group in Santa Clara"
   date: "2026-05-26"
   read_more: false

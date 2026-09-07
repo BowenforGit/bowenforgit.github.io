@@ -13,7 +13,7 @@ It helps me gain valuable experience in management and commnication.
 
 Here is the list of courses I have taught so far.
 
-- **Data Management Systems**: Head TA & Invited Speaker (Fall 2024), TA (Fall 2025)
+- **Data Management Systems**: Head TA & Invited Speaker (Fall 2024), TA (Fall 2025, 2026)
 - **Hardware Acceleration for Data Processing Seminar**: Invited Speaker (Fall 2024)
 - **Data Modeling and Databases**: TA (Spring 2024, 2025, 2026)
 - **Information Systems for Engineers**: TA (Fall 2023)
