@@ -9,7 +9,7 @@ showTags: false
 
 During my PhD study, I have been enjoying teaching and organizing teaching activities,
 such as leading the TA team and managing exercises and examinations.
-It helps me gain valuable experience in management and commnication.
+It helps me gain valuable experience in management and communication.
 
 Here is the list of courses I have taught so far.
 
@@ -18,14 +18,14 @@ Here is the list of courses I have taught so far.
 - **Data Modeling and Databases**: TA (Spring 2024, 2025, 2026)
 - **Information Systems for Engineers**: TA (Fall 2023)
 
-I am also very fortunate to work with talented students on various projects.
+I am also very fortunate to work with many talented students on various projects.
 
 **Master's Thesis**
 
-- [**Lorenzo Benedetti**](https://www.linkedin.com/in/lorenzo-benedetti-46a222206/): Implementing a GPU-accelerated file reader.
-- [**Diana Micloiu**](https://ch.linkedin.com/in/diana-micloiu-16b049248): Implementing and accelerating semantic operations in DBMS.
-- [**Sepehr Pourghannad**](https://ch.linkedin.com/in/sepehr-pourghannad) (now as a performance engineer at IMC Trading): Integrated Eiger, a high-performance GPU-based query engine, into [Maximus](https://gitlab.inf.ethz.ch/PUB-SYSTEMS/eth-dataprocessing/Maximus), a modular database working with heterogeneous hardware.  
-- [**Dominic Steiner**](https://nl.linkedin.com/in/dominic-steiner-ch) (now as a software engineer at Optiver): Profiled the NCCL library for the distributed database workloads and proposed optimizations that greatly improve the distributed operator's performance in Eiger.
+- [**Lorenzo Benedetti**](https://www.linkedin.com/in/lorenzo-benedetti-46a222206/) (💼 now as a software engineer at NVIDIA): Implementing a GPU-accelerated file reader.
+- [**Diana Micloiu**](https://ch.linkedin.com/in/diana-micloiu-16b049248) (incoming software engineer at Optiver): Implementing and accelerating semantic operations in DBMS.
+- [**Sepehr Pourghannad**](https://ch.linkedin.com/in/sepehr-pourghannad) (💼 now as a performance engineer at IMC Trading): Integrated Eiger, a high-performance GPU-based query engine, into [Maximus](https://gitlab.inf.ethz.ch/PUB-SYSTEMS/eth-dataprocessing/Maximus), a modular database working with heterogeneous hardware.  
+- [**Dominic Steiner**](https://nl.linkedin.com/in/dominic-steiner-ch) (💼 now as a software engineer at Optiver): Profiled the NCCL library for the distributed database workloads and proposed optimizations that greatly improve the distributed operator's performance in Eiger.
 
 **Bachelor's Thesis**
 
@@ -33,9 +33,11 @@ I am also very fortunate to work with talented students on various projects.
 
 **Semester Projects**
 
-- [**Ana Paladi**](https://www.linkedin.com/in/ana-paladi-009a642b3/): Implementing in-memory compressed data storage and processing for GPU-accelerated databases.
-- [**Elvan Konukseven**](https://elvankonukseven.com/): Accelerating database operators on Hopper architecture.
+- [**Alexandru Hurjui**](https://www.linkedin.com/in/alexandru-hurjui-36799816a/): Comparing CPU- and GPU-based databases under realistic scenarios and unexplored dimensions.
+- [**Julian Pieper**](https://www.linkedin.com/in/jupieper/): Developing a portable, heterogeneous query engines across different CPU and GPU architectures.
+- [**Ana Paladi**](https://www.linkedin.com/in/ana-paladi-009a642b3/): Implemented in-memory compressed data storage and processing for GPU-accelerated databases.
+- [**Elvan Konukseven**](https://elvankonukseven.com/) (💼 now as a research intern at Huawei Research Center Zurich): Acceleraeted database operators on Hopper architecture.
 - [**Phillip Trummer**](https://www.linkedin.com/in/phillip-trummer/): Characterized agentic text-to-SQL workflow and exploring databases and LLM agents co-design.
-- [**Cong Vu**](https://vn.linkedin.com/in/ba-cong-vu-a38480212): Studied unified memory and memory spilling for out-of-memory data processing on the GPU platform.
+- [**Cong Vu**](https://vn.linkedin.com/in/ba-cong-vu-a38480212) (💼 now doing master's thesis with IBM research center): Studied unified memory and memory spilling for out-of-memory data processing on the GPU platform.
 - [**Diana Micloiu**](https://ch.linkedin.com/in/diana-micloiu-16b049248): Ported Eiger from CUDA to ROCm, profiling performance differences, and performing optimizations.
-- [**Marios Angelis**](https://gr.linkedin.com/in/marios-g-angelis-233a46143) (now as research engineer at IBM research center): Implemented high-performance GPU-based database operators, such as left-join, semi-join, and anti-join, in Eiger.
+- [**Marios Angelis**](https://gr.linkedin.com/in/marios-g-angelis-233a46143) (💼 now as research engineer at IBM research center): Implemented high-performance GPU-based database operators, such as left-join, semi-join, and anti-join, in Eiger.
